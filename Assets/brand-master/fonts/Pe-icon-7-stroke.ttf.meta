@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 19ec11523fbefa248a29e4ab11588b69
+timeCreated: 1518586189
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pe-icon-7-stroke
+  fontNames:
+  - Pe-icon-7-stroke
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

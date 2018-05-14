@@ -1,0 +1,119 @@
+[
+  {
+    "guestName": "turtlebot1",
+    "registeredDate": "-8586791244875640893",
+    "lastLoginBonusDate": "-8586784360854775808",
+    "registeredAddress": null,
+    "guestCash": 111,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "turtlebot2",
+    "registeredDate": "-8586791244883637156",
+    "lastLoginBonusDate": "-8586784360854775808",
+    "registeredAddress": null,
+    "guestCash": 222,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "turtlebot3",
+    "registeredDate": "-8586791244878127505",
+    "lastLoginBonusDate": "-8586784360854775808",
+    "registeredAddress": null,
+    "guestCash": 333,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "turtlebot4",
+    "registeredDate": null,
+    "lastLoginBonusDate": null,
+    "registeredAddress": null,
+    "guestCash": 444,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "jergorn93",
+    "registeredDate": "-8586791238678211672",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": "Register",
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "wiedo84",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "kinjogoldbar",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "famousolspiced",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "artemortal",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "pointblankted",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "slipperybutters",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "xazzzzz",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "coray_von_twitch",
+    "registeredDate": "-8586791240822144487",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": "Register TRTLuyDqFYGJBv7m24Vptwh3Hb1wS7DoyCU9rAUa6nXtZDrKA6hLqrk6SneQjJev2CA35ecoSVkttXEL6XLj9Sz52ZKzH4Tsjv9",
+    "guestCash": 200.0,
+    "ownedTurtle": null,
+    "currentBets": []
+  }
+]

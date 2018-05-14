@@ -1,0 +1,92 @@
+[
+  {
+    "guestName": "turtlebot4",
+    "registeredDate": "-8586777960150775868",
+    "lastLoginBonusDate": "-8586756712854775808",
+    "registeredAddress": null,
+    "guestCash": 315.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "turtlebot1",
+    "registeredDate": "-8586777960150831019",
+    "lastLoginBonusDate": "-8586756712854775808",
+    "registeredAddress": null,
+    "guestCash": 220.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "slipperybutters",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "xazzzzz",
+    "registeredDate": "-8586791223107815074",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": null,
+    "guestCash": 200.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "coray_von_twitch",
+    "registeredDate": "-8586791240822144487",
+    "lastLoginBonusDate": "-8586791272854775808",
+    "registeredAddress": "Register TRTLuyDqFYGJBv7m24Vptwh3Hb1wS7DoyCU9rAUa6nXtZDrKA6hLqrk6SneQjJev2CA35ecoSVkttXEL6XLj9Sz52ZKzH4Tsjv9",
+    "guestCash": 200.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "turtlebot3",
+    "registeredDate": "-8586777960150640513",
+    "lastLoginBonusDate": "-8586756712854775808",
+    "registeredAddress": null,
+    "guestCash": 175.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "turtlebot2",
+    "registeredDate": "-8586777960151046585",
+    "lastLoginBonusDate": "-8586756712854775808",
+    "registeredAddress": null,
+    "guestCash": 85.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "sentient_pickle",
+    "registeredDate": "-8586777960151046585",
+    "lastLoginBonusDate": "-8586756712854775808",
+    "registeredAddress": null,
+    "guestCash": 460.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  },
+  {
+    "guestName": "grrlgeek42",
+    "registeredDate": "-8586777960151046585",
+    "lastLoginBonusDate": "-8586756712854775808",
+    "registeredAddress": null,
+    "guestCash": 425.0,
+    "bonusRoundBallsDropped": 0,
+    "ownedTurtle": null,
+    "currentBets": []
+  }
+]
